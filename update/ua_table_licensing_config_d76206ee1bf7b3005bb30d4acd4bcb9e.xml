@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ua_table_licensing_config">
+    <ua_table_licensing_config action="INSERT_OR_UPDATE">
+        <is_fulfillment>false</is_fulfillment>
+        <license_condition/>
+        <license_model>none</license_model>
+        <license_roles/>
+        <name>x_ref_pmc_pmc_listing</name>
+        <op_delete>true</op_delete>
+        <op_insert>true</op_insert>
+        <op_update>true</op_update>
+        <owner_condition/>
+        <sys_class_name>ua_table_licensing_config</sys_class_name>
+        <sys_created_by>Chris.Sanford@realfoundations.net</sys_created_by>
+        <sys_created_on>2019-09-13 04:37:24</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>d76206ee1bf7b3005bb30d4acd4bcb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ref_pmc_pmc_listing</sys_name>
+        <sys_package display_value="PMC" source="x_ref_pmc">6c42caae1bf7b3005bb30d4acd4bcb2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMC">6c42caae1bf7b3005bb30d4acd4bcb2e</sys_scope>
+        <sys_update_name>ua_table_licensing_config_d76206ee1bf7b3005bb30d4acd4bcb9e</sys_update_name>
+        <sys_updated_by>Chris.Sanford@realfoundations.net</sys_updated_by>
+        <sys_updated_on>2019-09-13 04:37:24</sys_updated_on>
+    </ua_table_licensing_config>
+</record_update>

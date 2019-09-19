@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Rialto PMC Import" language="en" table="x_ref_pmc_rialto_pmc_import">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Rialto PMC Import</label>
+            <language>en</language>
+            <name>x_ref_pmc_rialto_pmc_import</name>
+            <plural>Rialto PMC Imports</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>Chris.Sanford@realfoundations.net</sys_created_by>
+            <sys_created_on>2019-09-13 04:45:37</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
+            <sys_id>774446621b3bb3005bb30d4acd4bcb70</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rialto PMC Import</sys_name>
+            <sys_package display_value="PMC" source="x_ref_pmc">6c42caae1bf7b3005bb30d4acd4bcb2e</sys_package>
+            <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+            <sys_scope display_value="PMC">6c42caae1bf7b3005bb30d4acd4bcb2e</sys_scope>
+            <sys_update_name>sys_documentation_x_ref_pmc_rialto_pmc_import__en</sys_update_name>
+            <sys_updated_by>Chris.Sanford@realfoundations.net</sys_updated_by>
+            <sys_updated_on>2019-09-13 04:45:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_ref_pmc.pmc_listing_user" name="x_ref_pmc.pmc_listing_user">f66206ee1bf7b3005bb30d4acd4bcb25</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>Chris.Sanford@realfoundations.net</sys_created_by>
+        <sys_created_on>2019-09-13 04:37:22</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_id>fe6206ee1bf7b3005bb30d4acd4bcb27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>f66206ee1bf7b3005bb30d4acd4bcb25</sys_name>
+        <sys_package display_value="PMC" source="x_ref_pmc">6c42caae1bf7b3005bb30d4acd4bcb2e</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="PMC">6c42caae1bf7b3005bb30d4acd4bcb2e</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fe6206ee1bf7b3005bb30d4acd4bcb27</sys_update_name>
+        <sys_updated_by>Chris.Sanford@realfoundations.net</sys_updated_by>
+        <sys_updated_on>2019-09-13 04:37:22</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
